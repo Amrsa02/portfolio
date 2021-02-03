@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Saracevic Amr",
+    "occupation": "PROGRAMMER",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Amr!  I've been coding for over 2 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained a lot of developers across the globe.  I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me",
+    "email": "amrsaracevic@gmail.com",
+    "phone": "+387 62761776",
+    "address": {
+      "street": "Hotonj",
+      "city": "Sarajevo",
+      "state": "Vogosca",
+      "zip": "71320"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCQYowt6vFYM5Ox50TPFczPQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/amr.saracevic/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amrsaracevic/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amrsaracevic/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Amrsa02",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "High School Of Electrical Engeneering",
+        "degree": "Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "UpWork",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Amr is absolutely excellent, he learn me a lot... I would definitely recommend",
+        "user": "Jack Dalton"
+      },
+      {
+        "text": "Learning with Amr has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Bob Rondon"
+      }
+    ]
+  }
+}
